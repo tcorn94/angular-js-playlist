@@ -1,0 +1,1 @@
+A follow along tutorial from youtube, so I can learn the fundamentals of AngularJS
